@@ -1,0 +1,45 @@
+
+main {
+  width: 310px;
+  margin: 0 auto;
+  border: 1px solid #d1d1d1;
+  padding: 15px;
+  background-color: #efefef;
+  border-radius: 5px;
+}
+
+img {
+  width: 300px;
+  margin-top: 7px;
+}
+
+h1 {
+  font-family: bold;
+  font-size: 30px;
+  margin: 7px 0;
+  text-align: center;
+}
+
+.info-card {
+  border: 1px solid #d1d1d1;
+  width: 280px;
+  margin-top: 15px;
+  padding: 10px 10px 15px;
+  text-align: center;
+}
+
+.favorite-text {
+  font-style: italic;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+li span {
+  font-weight: bold;
+}
